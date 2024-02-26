@@ -1,4 +1,4 @@
-<h1>  Olá, seja bem vindo!</h1>
+<h1>👋 Olá, seja bem vindo!</h1>
 
 <h1 align="center"> Meu nome é Vitor Moreira</h1>
 <h1 align="center">Front-End Devloper</h1> 
@@ -6,7 +6,7 @@
 ## 🔧 🔨 Linguagens e Ferramentas
 <br>
 
-<p align="center" margin="100px"> 
+<p align="center" margin="100px" width="600px"> 
 <code><img height="100" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif"></code>
 <code><img height="100" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif"></code>
 <code><img height="100" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif"></code>
