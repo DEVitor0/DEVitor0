@@ -6,7 +6,7 @@
 ## 🔧 🔨 Linguagens e Ferramentas
 <br>
 
-<div align="center" style="max-width: 600px; margin: auto;">
+<div align="center" style="max-width: 1200px; margin: auto;">
     <code><img height="100" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif"></code>
     <code><img height="100" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif"></code>
     <code><img height="100" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif"></code>
