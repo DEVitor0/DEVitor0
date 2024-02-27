@@ -16,7 +16,6 @@
     <code><img height="100" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif"></code>
     <code><img height="100" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif"></code>
     <code><img height="100" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif"></code>
-    <img height="100" src="https://bashlogo.com/img/symbol/png/full_colored_light.png">
 </div>
 
 <br>
