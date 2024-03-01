@@ -25,9 +25,10 @@
 
   <table>
     <tr>
-        <td>[![DEVitor0's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=DEVitor0&theme=dark&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true)](https://github.com/DEVitor0)
-<br>
-[![DEVitor0 Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=DEVitor0&langs_count=5&hide=json,properties,stylus&custom_title=Most%20Used%20Languages&theme=dark&range=all_time)](https://wakatime.com/@DEVitor0)</td> 
+      <td>
+      <img align="left" width="470px" src="https://github-readme-stats.vercel.app/api?username=DEVitor0&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
+      </td>
+        <td><img width="470px" align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVitor0&layout=compact&langs_count20=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/></td> 
     </tr>   
 </table>
 </a> 
