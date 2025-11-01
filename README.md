@@ -25,9 +25,6 @@
 
 <div align="center">
   <br>
-  <p align="center">
-    <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https://github.com/DEVitor0&s=38&c=00FF00&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=&init=5000" />
-  </p>
   <div>
     <img align="center-right" alt="pic" height="150" style="border-radius:100px;" src="https://github.com/DEVitor0/DEVitor0/blob/main/.github/workflows/DEVitor0.gif?width=676&height=676&border-radius=100px">
   </div>
