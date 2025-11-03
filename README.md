@@ -15,11 +15,11 @@
 ### Main Skills:
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,express,materialui,nodejs,mongodb,redis,jest" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,vitest,nodejs,mongodb,jest,sentry" />
 
   <br>
 
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,aws,gcp,gitlab,rabbitmq" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,redis,aws,gcp,rabbitmq,grafana,prometheus" />
 
 </div>
 
