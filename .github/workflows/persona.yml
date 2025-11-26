@@ -16,7 +16,7 @@ jobs:
       - name: Generate Persona Card
         uses: devitor0/GitPersona@main
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.PAT_TOKEN }} # Recomendado: Criar um PAT para ler repos privados
           username: ${{ github.repository_owner }}
           output_dir: dist
           
@@ -24,6 +24,6 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add dist/persona.svg
+          git add -f dist/persona.svg
           git commit -m "chore: update persona card" || exit 0
           git push
