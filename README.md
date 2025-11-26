@@ -7,7 +7,7 @@
 <div align="center">  
   <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DEVitor0&show_icons=true&count_private=true&hide_border=true&title_color=1FDE15&icon_color=6BB967&text_color=A1A4A0&bg_color=0d1117" alt="Vitor Moreira github stats"/>
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVitor0&layout=compact&hide_border=true&langs_count=10&title_color=1FDE15&text_color=A1A4A0&bg_color=0d1117" />
-  <img width="51%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=DEVitor0&theme=dark&locale=pt_BR&background=0d1117&hide_border=true&fire=1FDE15&ring=6BB967&currStreakLabel=A1A4A0&dates=A1A4A0" alt="GitHub Streak" />
+  <img src="https://github.com/DEVitor0/DEVitor0/blob/main/dist/persona.svg?raw=true" alt="GitPersona" width="51%">
 </div>
 
 <hr>
