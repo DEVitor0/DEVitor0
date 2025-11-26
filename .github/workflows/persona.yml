@@ -1,0 +1,29 @@
+name: Update GitPersona
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Executa todo dia à meia-noite
+  workflow_dispatch: # Permite rodar manualmente clicando em um botão
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Generate Persona Card
+        uses: devitor0/GitPersona@main
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: ${{ github.repository_owner }}
+          output_dir: dist
+          
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add dist/persona.svg
+          git commit -m "chore: update persona card" || exit 0
+          git push
