@@ -1,34 +1,23 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=69F539&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7ee787&height=120&section=header"/>
 
-<h1 style="color: #fff">
-    Hello everyone! I'm Vitor ☕
-</h1>
+<h1 align="center">Hello everyone! I'm Vitor ☕</h1>
 
 <div align="center">  
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DEVitor0&show_icons=true&count_private=true&hide_border=true&title_color=1FDE15&icon_color=6BB967&text_color=A1A4A0&bg_color=0d1117" alt="Vitor Moreira github stats"/>
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVitor0&layout=compact&hide_border=true&langs_count=10&title_color=1FDE15&text_color=A1A4A0&bg_color=0d1117" />
-  <img src="https://github.com/DEVitor0/DEVitor0/blob/main/dist/persona.svg?raw=true" alt="GitPersona" width="51%">
+  <!-- Primeira linha com stats e gráfico lado a lado -->
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
+    <img width="48%" height="220px" src="https://github-readme-stats.vercel.app/api?username=DEVitor0&show_icons=true&count_private=true&hide_border=true&title_color=7ee787&icon_color=7ee787&text_color=c9d1d9&bg_color=0d1117" alt="Vitor Moreira github stats"/>
+    <img width="48%" height="220px" src="https://github-readme-activity-graph.vercel.app/graph?username=DEVitor0&bg_color=0d1117&color=7ee787&line=7ee787&point=c9d1d9&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
+  </div>
+  
+  <!-- Persona centralizada abaixo -->
+  <img src="https://github.com/DEVitor0/DEVitor0/blob/main/dist/persona.svg?raw=true" alt="GitPersona" width="65%">
 </div>
-
-<hr>
 
 ### Main Skills:
 <div align="center">
-
   <img src="https://skillicons.dev/icons?i=js,ts,react,next,vitest,nodejs,mongodb,jest,sentry" />
-
   <br>
-
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,redis,aws,gcp,rabbitmq,grafana,prometheus" />
-
 </div>
 
-<div align="center">
-  <br>
-  <div>
-    <img align="center-right" alt="pic" height="150" style="border-radius:100px;" src="https://github.com/DEVitor0/DEVitor0/blob/main/.github/workflows/DEVitor0.gif?width=676&height=676&border-radius=100px">
-  </div>
-  <br>
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=69F539&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7ee787&height=120&section=footer"/>
